@@ -1,0 +1,12 @@
+export const fetchAll = "FETCH_ALL";
+export const fetchPost = "FETCH_POST";
+export const fetchBySearch = "FETCH_BY_SEARCH";
+export const createPost = "CREATE";
+export const updatePost = "UPDATE";
+export const deletePost = "DELETE";
+export const likePost = "LIKE";
+export const auth = "AUTH";
+export const logout = "LOGOUT";
+export const startLoading = "START_LOADING";
+export const endLoading = "END_LOADING";
+export const error = "ERROR";
